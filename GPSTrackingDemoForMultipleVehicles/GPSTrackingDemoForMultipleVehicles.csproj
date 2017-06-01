@@ -34,11 +34,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="SGMapKit.Core, Version=3.0.4.0, Culture=neutral, PublicKeyToken=77c845dea9a04899, processorArchitecture=MSIL">
-      <HintPath>..\packages\SGMapKit.Core.3.0.4\lib\net40\SGMapKit.Core.dll</HintPath>
+    <Reference Include="SGMapKit.Core, Version=3.0.5.0, Culture=neutral, PublicKeyToken=77c845dea9a04899, processorArchitecture=MSIL">
+      <HintPath>..\packages\SGMapKit.Core.3.0.5\lib\net40\SGMapKit.Core.dll</HintPath>
     </Reference>
-    <Reference Include="SGMapKit.Wpf, Version=3.0.4.0, Culture=neutral, PublicKeyToken=77c845dea9a04899, processorArchitecture=MSIL">
-      <HintPath>..\packages\SGMapKit.Wpf.3.0.4\lib\net40\SGMapKit.Wpf.dll</HintPath>
+    <Reference Include="SGMapKit.Wpf, Version=3.0.5.0, Culture=neutral, PublicKeyToken=77c845dea9a04899, processorArchitecture=MSIL">
+      <HintPath>..\packages\SGMapKit.Wpf.3.0.5\lib\net45\SGMapKit.Wpf.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -60,11 +60,6 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="Scene\GpsSpriteArrivedEventArgs.cs" />
-    <Compile Include="Scene\GpsScene.cs" />
-    <Compile Include="Scene\GpsSprite.cs" />
-    <Compile Include="Scene\GpsSceneUpdatedEventArgs.cs" />
-    <Compile Include="Scene\GpsSceneUpdatingEventArgs.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
