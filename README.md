@@ -1,3 +1,5 @@
+Keywords: gps tracking, vehicle tracking, vehicle moving animation, simulate gps
+
 # Animated GPS Tracking with Multiple Vehicles
 
 Are you looking for a prototype that could track GPS signal of vehicles? The vehicles move with animation on their own speed and want to control the speed of GPS scene.
@@ -29,4 +31,7 @@ The first class that I want to introduce is GPS scene. This class could help to 
 
 With this guide and the project we have, I think it is enough for you to build your GPS tracking world. Any suggestions, we are glad to hear. Please don't hesitate to contact us by support@slimgis.com.
 
-Happy Mapping!
+## Related Resources
+- [Source code](https://github.com/SlimGIS/GPSTrackingDemoForMultipleVehicles-Wpf)
+- [Video](https://youtu.be/vbf1wP0IMcw)
+- [Vehicle tracking head north sample](https://slimgis.com/documents/gps-tracking-wpf)
